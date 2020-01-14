@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cookie-server/cookie-server.iml" filepath="$PROJECT_DIR$/cookie-server/cookie-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/declarative-fortune.iml" filepath="$PROJECT_DIR$/declarative-fortune.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fortune-api/fortune-api.iml" filepath="$PROJECT_DIR$/fortune-api/fortune-api.iml" />
+    </modules>
+  </component>
+</project>
