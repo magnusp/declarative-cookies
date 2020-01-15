@@ -11,6 +11,7 @@
 
     <groupId>github.magnusp.declarativefortune</groupId>
     <artifactId>declarative-fortune</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
 
     <properties>
         <java.version>11</java.version>
